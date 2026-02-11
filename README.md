@@ -2,6 +2,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="280" alt="Coding Gif">
 </div>
 
+<<<<<<< HEAD
 # Hi there 👋 It's me Niranjan
 
 ### ECE Student | Developer | Intern @ Infosys Springboard
@@ -59,3 +60,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=niranjan-210326&show_icons=true&theme=tokyonight&hide_border=true" alt="niranjan-stats" />
 
 </div>
+=======
+- 🔭 I’m currently working on a **Web Platform for Volunteer Management** as an intern at Infosys Springboard.
+- 📫 How to reach me: [mpnniranjanpavithra2@gmail.com]
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/niranjan-mp21/)
+>>>>>>> 0ae81bec26a7cfae21fa12e3a9562e39428bd339
