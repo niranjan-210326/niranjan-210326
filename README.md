@@ -19,13 +19,13 @@
 ### 🌐 Social Presence
 <a href="https://www.linkedin.com/in/niranjan-mp21" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="niranjan-linkedin" /></a>
 &nbsp;
-<a href="https://leetcode.com/niranjan_2006_march" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="niranjan-leetcode" /></a>
-&nbsp;
-<a href="https://www.codechef.com/users/niranjan_2006" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="niranjan-codechef" /></a>
-&nbsp;
 <a href="https://www.hackerrank.com/profile/niranjan_2006" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="niranjan-hackerrank" /></a>
 &nbsp;
+<a href="https://leetcode.com/niranjan_2006_march" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="niranjan-leetcode" /></a>
+&nbsp;
 <a href="https://www.hackerearth.com/@mpnniranjanpavithra2" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="niranjan-hackerearth" /></a>
+&nbsp;
+<a href="https://www.codechef.com/users/niranjan_2006" target="blank"><img align="center" src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="niranjan-codechef" /></a>
 
 <br>
 <br>
@@ -48,11 +48,11 @@
 
 ### 🛠️ IDE and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/Oracle_SQL_Dev-f80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
   <img src="https://img.shields.io/badge/PlatformIO-f68212.svg?style=for-the-badge&logo=platformio&logoColor=white" alt="platformio" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
 </p>
 
 ### 🖥️ Workspace Spec
@@ -66,8 +66,6 @@
 </p>
 
 <br>
-
-### 🧠 Competitive Programming Stats
 
 <div align="center">
 <a href="https://leetcode.com/niranjan_2006_march">
