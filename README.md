@@ -32,7 +32,6 @@
 
 ### 💻 I Code In
 <p align="left">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
@@ -41,6 +40,7 @@
 
 ### 📚 Currently Learning
 <p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
@@ -50,9 +50,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  <img src="https://img.shields.io/badge/Oracle_SQL_Dev-f80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" />
   <img src="https://img.shields.io/badge/PlatformIO-f68212.svg?style=for-the-badge&logo=platformio&logoColor=white" alt="platformio" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </p>
 
 ### 🖥️ Workspace Spec
@@ -70,11 +70,9 @@
 ### 🧠 Competitive Programming Stats
 
 <div align="center">
-
 <a href="https://leetcode.com/niranjan_2006_march">
   <img src="https://leetcard.jacoblin.cool/niranjan_2006_march?theme=tokyonight&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </a>
-
 </div>
 
 <br>
@@ -82,12 +80,6 @@
 ### 📈 GitHub Activity Overview
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjan-210326&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true" alt="Niranjan's Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niranjan-210326&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="niranjan-stats" />
 </div>
 
 </div>
