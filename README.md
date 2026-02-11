@@ -56,6 +56,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=niranjan-210326&show_icons=true&theme=tokyonight&hide_border=true" alt="niranjan-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=niranjan-210326&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="niranjan-stats" />
 
 </div>
